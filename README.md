@@ -3,7 +3,7 @@
 # The Big Picture
 
 <p align="center">
-  <img src="https://github.com/Ngali-coder/Ngali-coder/blob/main/banner.png" alt="Ngali Abiru Banner" width="100%">
+  <img src="https://github.com/Ngali-coder/SmartLoopR/blob/main/results/RL.png" alt="Ngali Abiru Banner" width="100%">
 </p>
 
 ### Personalized Walking Route Recommendation using Proximal Policy Optimization (PPO) and OpenStreetMap
