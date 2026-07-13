@@ -109,7 +109,7 @@ These include:
 - Final recommended walking route
 
 <p align="center">
-  <img src="https://github.com/Ngali-coder/SmartLoopR/blob/main/results/RL.png" alt="Ngali Abiru Banner" width="100%">
+  <img src="https://github.com/Ngali-coder/SmartLoopR/blob/main/results/ppo%20learning%20curve.png" alt="Ngali Abiru Banner" width="100%">
 </p>
 
 - you can find the rest of these figures in the pdf version of the notebook uploaded
