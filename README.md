@@ -1,5 +1,11 @@
 # SmartLoopRL
 
+# The Big Picture
+
+<p align="center">
+  <img src="https://github.com/Ngali-coder/Ngali-coder/blob/main/banner.png" alt="Ngali Abiru Banner" width="100%">
+</p>
+
 ### Personalized Walking Route Recommendation using Proximal Policy Optimization (PPO) and OpenStreetMap
 
 SmartLoopRL is an end-to-end Reinforcement Learning system that generates personalized walking-loop recommendations using real-world geospatial data from OpenStreetMap. The project formulates route recommendation as a Markov Decision Process (MDP) and trains a Proximal Policy Optimization (PPO) agent to recommend walking routes that closely match a user's desired walking duration while simultaneously maximizing scenic quality and route diversity.
